@@ -33,7 +33,8 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 By Topic Areas and Year of Publication / Submission
 
 #### General Introduction
-1.  The Potential for Automation to Transform Urban Deliveries: Drivers, Barriers and Policy Priorities (2020) Paddeu and Parkhurst [[ref](https://www.sciencedirect.com/science/article/pii/S2543000920300032)]
+* The Potential for Automation to Transform Urban Deliveries: Drivers, Barriers and Policy Priorities (2020), Paddeu and Parkhurst [[link](https://www.sciencedirect.com/science/article/pii/S2543000920300032)]
+* 
 
 
 #### ADV Network and System Operation Design
