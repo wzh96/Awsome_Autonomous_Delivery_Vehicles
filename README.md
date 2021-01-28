@@ -38,8 +38,10 @@ By Topic Areas and Year of Publication / Submission
 
 
 #### ADV Network and System Operation Design
-1. **Two-Echelon Urban Deliveries Using Autonomous Vehicles** (2020), Yu et al. [[Link]()]
-
+* **Two-Echelon Urban Deliveries Using Autonomous Vehicles** (2020), Yu et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Yu%20et%20al.%20-%202020%20-%20Two-echelon%20urban%20deliveries%20using%20autonomous%20vehi.pdf)]
+* **Dynamic Discretization Discovery for the Service Network Design Problem with Mixed Autonomous Fleets** (2020), Scherr et al. [[Link] ()]
+* **Pickup and Delivery Problem with Recharging for Material Handling Systems Utilizing Autonomous Mobile Robots** (2020), Jun et al. [[Link] ()]
+* **Two-Stage Request Scheduling for Autonomous Vehicle Logistic System** (2019), Yu [[Link] ()]
 
 #### Perception
 1. **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
