@@ -39,10 +39,10 @@ By Topic Areas and Year of Publication / Submission
 
 #### ADV Network and System Operation Design
 * **Two-Echelon Urban Deliveries Using Autonomous Vehicles** (2020), Yu et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Yu%20et%20al.%20-%202020%20-%20Two-echelon%20urban%20deliveries%20using%20autonomous%20vehi.pdf)]
-* **Dynamic Discretization Discovery for the Service Network Design Problem with Mixed Autonomous Fleets** (2020), Scherr et al. [[Link] ()]
-* **Pickup and Delivery Problem with Recharging for Material Handling Systems Utilizing Autonomous Mobile Robots** (2020), Jun et al. [[Link] ()]
-* **Two-Stage Request Scheduling for Autonomous Vehicle Logistic System** (2019), Yu [[Link] ()]
-* **Same-Day Delivery with Pickup Stations and Autonomous Vehicles** (2019), Ulmer and Streng [[Link] ()]
+* **Dynamic Discretization Discovery for the Service Network Design Problem with Mixed Autonomous Fleets** (2020), Scherr et al. [[Link] (https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Scherr%20et%20al.%20-%202020%20-%20Dynamic%20discretization%20discovery%20for%20the%20service%20n.pdf)]
+* **Pickup and Delivery Problem with Recharging for Material Handling Systems Utilizing Autonomous Mobile Robots** (2020), Jun et al. [[Link] (https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Pickup%20and%20delivery%20problem%20with%20recharging%20for%20material%20handling%20systems%20utilising%20autonomous%20mobile%20robots.pdf)]
+* **Two-Stage Request Scheduling for Autonomous Vehicle Logistic System** (2019), Yu [[Link] (https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Yu%20-%202019%20-%20Two-Stage%20Request%20Scheduling%20for%20Autonomous%20Vehicl.pdf)]
+* **Same-Day Delivery with Pickup Stations and Autonomous Vehicles** (2019), Ulmer and Streng [[Link] (https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Ulmer%20and%20Streng%20-%202019%20-%20Same-Day%20delivery%20with%20pickup%20stations%20and%20autonom.pdf)]
 * **Service Network Design with Mixed Autonomous Fleets** (2019), Scherr et al. [[Link] ()]
 * **Opportunities and Threats for The Mix of Traditional and Green Business Models** (2019), Perboli and Rosano [[Link] ()]
 * **Service Network Design for Same Day Delivery with Mixed Autonomous Fleets** (2018), Scherr et al. [[Link] ()]
