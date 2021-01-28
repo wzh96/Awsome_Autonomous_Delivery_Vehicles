@@ -42,6 +42,12 @@ By Topic Areas and Year of Publication / Submission
 * **Dynamic Discretization Discovery for the Service Network Design Problem with Mixed Autonomous Fleets** (2020), Scherr et al. [[Link] ()]
 * **Pickup and Delivery Problem with Recharging for Material Handling Systems Utilizing Autonomous Mobile Robots** (2020), Jun et al. [[Link] ()]
 * **Two-Stage Request Scheduling for Autonomous Vehicle Logistic System** (2019), Yu [[Link] ()]
+* **Same-Day Delivery with Pickup Stations and Autonomous Vehicles** (2019), Ulmer and Streng [[Link] ()]
+* **Service Network Design with Mixed Autonomous Fleets** (2019), Scherr et al. [[Link] ()]
+* **Opportunities and Threats for The Mix of Traditional and Green Business Models** (2019), Perboli and Rosano [[Link] ()]
+* **Service Network Design for Same Day Delivery with Mixed Autonomous Fleets** (2018), Scherr et al. [[Link] ()]
+* **Scheduling Last-Mile Deliveries with Truck-Based Autonomous Robots** (2018), Boysen et al. [[Link] ()]
+* **Developing a Micro-Simulation Tool for Autonomous Connected Vehicle Platoons Used in City Logistics** (2017),  Haas and Friedrich [[Link] ()]
 
 #### Perception
 1. **[2016]** _VisualBackProp: visualizing CNNs for autonomous driving_. [[ref](https://arxiv.org/abs/1611.05418)]
