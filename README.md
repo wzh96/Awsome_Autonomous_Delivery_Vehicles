@@ -38,7 +38,7 @@ By Topic Areas and Year of Publication / Submission
 
 
 #### ADV Network and System Operation Design
-1. **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[ref](https://arxiv.org/abs/1610.07336)]
+1. **Two-Echelon Urban Deliveries Using Autonomous Vehicles** (2020), Yu et al. [[Link]()]
 
 
 #### Perception
