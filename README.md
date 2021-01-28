@@ -1,6 +1,6 @@
 # Awsome Autonomous Delivery Vehicles: [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome autonomous vehicles resources, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
+A curated list of awesome things related to autonomous delivery vehicles, inspired by [awesome-autonomous-vehicles](https://github.com/manfreddiaz/awesome-autonomous-vehicles).
 
 
 ## Table of Contents
@@ -25,7 +25,6 @@ A curated list of awesome autonomous vehicles resources, inspired by [awesome-au
 
 ### Computer Vision
 
-
 ## Company
 
 
@@ -33,11 +32,11 @@ A curated list of awesome autonomous vehicles resources, inspired by [awesome-au
 ## Papers
 By Topic Areas and Year of Publication / Submission
 
-#### General
-1. **[2016]** _Combining Deep Reinforcement Learning and Safety Based Control for Autonomous Driving_. [[ref](https://arxiv.org/abs/1612.00147)]
+#### General Introduction
+1.  The Potential for Automation to Transform Urban Deliveries: Drivers, Barriers and Policy Priorities (2020) Paddeu and Parkhurst [[ref](https://www.sciencedirect.com/science/article/pii/S2543000920300032)]
 
 
-#### Localization & Mapping
+#### ADV Network and System Operation Design
 1. **[2016]** _MultiCol-SLAM - A Modular Real-Time Multi-Camera SLAM System._ [[ref](https://arxiv.org/abs/1610.07336)]
 
 
