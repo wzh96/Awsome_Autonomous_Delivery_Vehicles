@@ -5,7 +5,7 @@ A curated list of awesome autonomous vehicles resources, inspired by [awesome-au
 
 ## Table of Contents
 * [Foundations](#foundations)
-* [Courses](#courses)
+* [Company](#company)
 * [Papers](#papers)
 * [Open Data Source](#datasets)
 * [Research Labs](#research-labs)
@@ -21,18 +21,13 @@ A curated list of awesome autonomous vehicles resources, inspired by [awesome-au
 
 ### Artificial Intelligence
 
-1. [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning) - A curated list of awesome Machine Learning frameworks, libraries and software. Maintained by Joseph Misiti.Joseph Misiti
-
-
 ### Robotics
-1. [Awesome Robotics](https://github.com/Kiloreux/awesome-robotics) - A list of various books, courses and other resources for robotics, maintained by kiloreux.
 
 ### Computer Vision
-1. [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision) - A curated list of awesome computer vision resources, maintained by Jia-Bin Huang
 
 
-## Courses
-* [[Coursera] Machine Learning](https://www.coursera.org/learn/machine-learning) - presented by [Andrew Ng](https://en.wikipedia.org/wiki/Andrew_Ng), as of 2020 Jan 28 it has 125,344 ratings and 30,705 reviews.
+## Company
+
 
 
 ## Papers
