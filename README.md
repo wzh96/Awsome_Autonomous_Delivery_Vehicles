@@ -26,8 +26,10 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 ### Computer Vision
 
 ## Company
-
-
+* Nuro [[Website](https://nuro.ai/)]
+* Amazon Scout [[Website](https://www.aboutamazon.com/news/transportation/meet-scout)]
+* Neolix [[Website](https://www.neolix.cn/productCenter.html)]
+* 
 
 ## Papers
 By Topic Areas
