@@ -50,6 +50,7 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 #### Sidewalk Autonomous Delivery Vehicles
 * Starship [[Website](https://www.starship.xyz/)]
+
 * Eliport [[Website](https://eliport.com/)]
 * Teleretail [[Website](https://teleretail.com/)]
 * Kiwi [[Website](https://teleretail.com/)]
