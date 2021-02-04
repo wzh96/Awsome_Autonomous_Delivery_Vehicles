@@ -53,11 +53,24 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 #### Autonomous Delivery Drone
 * Amazon Prime Air [[Website](https://www.amazon.com/Amazon-Prime-Air/b?ie=UTF8&node=8037720011)]
+
 * EmQopter [[Website](https://www.emqopter.de/en/index.php)]
+
 * Flytrex [[Website](https://flytrex.com/)]
+
 * Matternet [[Website](https://mttr.net/)]
+
 * Wing [[Website](https://wing.com/)]
+
 * UPS Flight Forward [[Website](https://www.ups.com/us/en/services/shipping-services/flight-forward-drones.page)]
+
+* Drone Delivery Canada [[Website](https://dronedeliverycanada.com/)]
+
+* Flirtey [[Website](https://www.flirtey.com/)]
+
+* Zipline [[Website](https://flyzipline.com/)
+Zipline delivers critical and lifesaving products precisely where and when they are needed, safely and reliably, every day, across multiple countries.
+* 
 
 ## Open Data Source
 * Waymo Open Dataset [[Link](https://waymo.com/open/)]
@@ -92,7 +105,7 @@ By Topic Areas
 #### Potential Impact and Challenges of ADV
 * **Potential of Private Autonomous Vehicles for Parcel Delivery** (2020), Schlenther et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Potential%20of%20Private%20Autonomous%20Vehicles%20for%20Parcel%20Delivery.pdf)]
 * **Study of Sidewalk Autonomous Delivery Robots and Their Potential Impacts on Freight Efficiency and Travel** (2019), Jennings and Figliozz [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Study%20of%20Sidewalk%20Autonomous%20Delivery%20Robots%20and%20Their%20Potential%20Impacts%20on%20Freight%20Efficiency%20and%20Travel.pdf)]
-* **From Semi to Fully Autonomous Vehicles: New Emerging Risks and Ethico-Legal Challenges for Human-Machine Interactions** (2019), Bellet et al. [[Link]()]
+* **From Semi to Fully Autonomous Vehicles: New Emerging Risks and Ethico-Legal Challenges for Human-Machine Interactions** (2019), Bellet et al. [[Link](https://www.sciencedirect.com/science/article/pii/S1369847818308556)]
 * **Study of Road Autonomous Delivery Robots and Their Potential Effects on Freight Efficiency and Travel** (2020), Jennings and Figliozz [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Study%20of%20Road%20Autonomous%20Delivery%20Robots%20and%20Their%20Potential%20Effects%20on%20Freight%20Efficiency%20and%20Travel.pdf)]
 
 #### Public Acceptance of ADV
