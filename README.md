@@ -52,10 +52,12 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 * Robby [[Website](https://robby.io/)]
 
 #### Autonomous Delivery Drone
-*
-*
-*
-*
+* Amazon Prime Air [[Website](https://www.amazon.com/Amazon-Prime-Air/b?ie=UTF8&node=8037720011)]
+* EmQopter [[Website](https://www.emqopter.de/en/index.php)]
+* Flytrex [[Website](https://flytrex.com/)]
+* Matternet [[Website](https://mttr.net/)]
+* Wing [[Website](https://wing.com/)]
+* UPS Flight Forward [[Website](https://www.ups.com/us/en/services/shipping-services/flight-forward-drones.page)]
 
 ## Open Data Source
 * Waymo Open Dataset [[Link](https://waymo.com/open/)]
@@ -81,17 +83,17 @@ By Topic Areas
 * **Pickup and Delivery Problem with Recharging for Material Handling Systems Utilizing Autonomous Mobile Robots** (2020), Jun et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Pickup%20and%20delivery%20problem%20with%20recharging%20for%20material%20handling%20systems%20utilising%20autonomous%20mobile%20robots.pdf)]
 * **Two-Stage Request Scheduling for Autonomous Vehicle Logistic System** (2019), Yu [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Yu%20-%202019%20-%20Two-Stage%20Request%20Scheduling%20for%20Autonomous%20Vehicl.pdf)]
 * **Same-Day Delivery with Pickup Stations and Autonomous Vehicles** (2019), Ulmer and Streng [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Ulmer%20and%20Streng%20-%202019%20-%20Same-Day%20delivery%20with%20pickup%20stations%20and%20autonom.pdf)]
-* **Service Network Design with Mixed Autonomous Fleets** (2019), Scherr et al. [[Link]()]
-* **Opportunities and Threats for The Mix of Traditional and Green Business Models** (2019), Perboli and Rosano [[Link]()]
-* **Service Network Design for Same Day Delivery with Mixed Autonomous Fleets** (2018), Scherr et al. [[Link]()]
-* **Scheduling Last-Mile Deliveries with Truck-Based Autonomous Robots** (2018), Boysen et al. [[Link]()]
-* **Developing a Micro-Simulation Tool for Autonomous Connected Vehicle Platoons Used in City Logistics** (2017),  Haas and Friedrich [[Link]()]
+* **Service Network Design with Mixed Autonomous Fleets** (2019), Scherr et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Scherr%20et%20al.%20-%202019%20-%20Service%20network%20design%20with%20mixed%20autonomous%20fleet.pdf)]
+* **Parcel Delivery in Urban Area: Opportunities and Threats for The Mix of Traditional and Green Business Models** (2019), Perboli and Rosano [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Perboli%20and%20Rosano%20-%202019%20-%20Parcel%20delivery%20in%20urban%20areas%20Opportunities%20and%20.pdf)]
+* **Service Network Design for Same Day Delivery with Mixed Autonomous Fleets** (2018), Scherr et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Scherr%20et%20al.%20-%202018%20-%20Service%20Network%20Design%20for%20Same%20Day%20Delivery%20with%20.pdf)]
+* **Scheduling Last-Mile Deliveries with Truck-Based Autonomous Robots** (2018), Boysen et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Scheduling%20last-mile%20deliveries%20with%20truck-based%20autonomous%20robots.pdf)]
+* **Developing a Micro-Simulation Tool for Autonomous Connected Vehicle Platoons Used in City Logistics** (2017),  Haas and Friedrich [[Link](https://www.sciencedirect.com/science/article/pii/S235214651730981X)]
 
 #### Potential Impact and Challenges of ADV
 * **Potential of Private Autonomous Vehicles for Parcel Delivery** (2020), Schlenther et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Potential%20of%20Private%20Autonomous%20Vehicles%20for%20Parcel%20Delivery.pdf)]
-* **Study of Sidewalk Autonomous Delivery Robots and Their Potential Impacts on Freight Efficiency and Travel** (2019), Jennings and Figliozz [[Link]()]
+* **Study of Sidewalk Autonomous Delivery Robots and Their Potential Impacts on Freight Efficiency and Travel** (2019), Jennings and Figliozz [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Study%20of%20Sidewalk%20Autonomous%20Delivery%20Robots%20and%20Their%20Potential%20Impacts%20on%20Freight%20Efficiency%20and%20Travel.pdf)]
 * **From Semi to Fully Autonomous Vehicles: New Emerging Risks and Ethico-Legal Challenges for Human-Machine Interactions** (2019), Bellet et al. [[Link]()]
-* **Study of Road Autonomous Delivery Robots and Their Potential Effects on Freight Efficiency and Travel** (2020), Jennings and Figliozz [[Link]()]
+* **Study of Road Autonomous Delivery Robots and Their Potential Effects on Freight Efficiency and Travel** (2020), Jennings and Figliozz [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Study%20of%20Road%20Autonomous%20Delivery%20Robots%20and%20Their%20Potential%20Effects%20on%20Freight%20Efficiency%20and%20Travel.pdf)]
 
 #### Public Acceptance of ADV
 * **Evaluating Public Acceptance of Autonomous Delivery Robots during COVID-19 Pandemic** (2020), Pani et al. [[Link]()]
