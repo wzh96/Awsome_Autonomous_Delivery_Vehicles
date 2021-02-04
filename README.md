@@ -88,7 +88,7 @@ By Topic Areas
 * **Developing a Micro-Simulation Tool for Autonomous Connected Vehicle Platoons Used in City Logistics** (2017),  Haas and Friedrich [[Link]()]
 
 #### Potential Impact and Challenges of ADV
-* **Potential of Private Autonomous Vehicles for Parcel Delivery** (2020), Schlenther et al. [[Link]()]
+* **Potential of Private Autonomous Vehicles for Parcel Delivery** (2020), Schlenther et al. [[Link](https://github.com/wzh96/Awsome_Autonomous_Delivery_Vehicles/blob/main/Paper/Potential%20of%20Private%20Autonomous%20Vehicles%20for%20Parcel%20Delivery.pdf)]
 * **Study of Sidewalk Autonomous Delivery Robots and Their Potential Impacts on Freight Efficiency and Travel** (2019), Jennings and Figliozz [[Link]()]
 * **From Semi to Fully Autonomous Vehicles: New Emerging Risks and Ethico-Legal Challenges for Human-Machine Interactions** (2019), Bellet et al. [[Link]()]
 * **Study of Road Autonomous Delivery Robots and Their Potential Effects on Freight Efficiency and Travel** (2020), Jennings and Figliozz [[Link]()]
