@@ -72,7 +72,7 @@ By Topic Areas
 
 #### ADV Design
 * **An Autonomous Vehicle for Parcel Delivery in Urban Areas** (2018), Buchegger et al. [[Link]()]
-* **Perception and Control Strategies for Autonomous Docking for Electric Freight Vehicles** (2016), Clarembaux [[Link]()]
+* **Perception and Control Strategies for Autonomous Docking for Electric Freight Vehicles** (2016), Clarembaux et al. [[Link]()]
 * **Drone-delivery using autonomous mobility: An Innovative Approach to Future Last-Mile Delivery Problems** (2018), Yoo and Chankov [[Link]()]
 * **Approach Methods for Autonomous Precision Aerial Drop from a Small Unmanned Aerial Vehicle** (2017), Mathisen et al. [[Link]()]
 
