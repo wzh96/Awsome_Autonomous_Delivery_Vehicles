@@ -26,6 +26,8 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 ### Computer Vision
 
 ## Company
+
+#### Road Autonomous Delivery Vehicles
 * Nuro [[Website](https://nuro.ai/)]
 * Amazon Scout [[Website](https://www.aboutamazon.com/news/transportation/meet-scout)]
 * Neolix [[Website](https://www.neolix.cn/productCenter.html)]
@@ -41,6 +43,19 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 * Einride [[Website](https://www.einride.tech/)]
 * ZOOX [[Website](https://zoox.com/)]
 * Fedex Roxo [[Website](https://www.fedex.com/en-us/innovation/roxo-delivery-robot.html)]
+
+#### Sidewalk Autonomous Delivery Vehicles
+* Starship [[Website](https://www.starship.xyz/)]
+* Eliport [[Website](https://eliport.com/)]
+* Teleretail [[Website](https://teleretail.com/)]
+* Kiwi [[Website](https://teleretail.com/)]
+* Robby [[Website](https://robby.io/)]
+
+#### Autonomous Delivery Drone
+*
+*
+*
+*
 
 ## Open Data Source
 * Waymo Open Dataset [[Link](https://waymo.com/open/)]
