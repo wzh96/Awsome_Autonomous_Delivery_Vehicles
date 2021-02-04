@@ -32,7 +32,25 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 * Dax [[Website](https://daxbot.com/)]
 * Refraction AI [[Website](https://refraction.ai/)]
 * idriverplus [[Website](https://idriverplus.com/sy)]
-* 
+* udelv [[Website](https://www.udelv.com/)]
+* autox [[Website](https://www.autox.ai/en/index.html)]
+* oxbotica [[Website](https://www.oxbotica.com/)]
+* Gatik [[Website](https://gatik.ai/)]
+* Pony.ai [[Website](https://pony.ai/en/index.html)] 
+* UDI [[Website](https://unity-drive.com/#/)] 
+* Einride [[Website](https://www.einride.tech/)]
+* ZOOX [[Website](https://zoox.com/)]
+* Fedex Roxo [[Website](https://www.fedex.com/en-us/innovation/roxo-delivery-robot.html)]
+
+## Open Data Source
+* Waymo Open Dataset [[Link](https://waymo.com/open/)]
+* Argoverse [[Link](https://www.argoverse.org/data.html#overview-link)]
+* Lyft Level 5 Open Data [[Link](https://self-driving.lyft.com/level5/data/)]
+* Ford AV Dataset [[Link](https://avdata.ford.com/data/default.aspx)]
+* Audi AV Dataset [[Link](https://www.a2d2.audi/a2d2/en/dataset.html)]
+* UCBerekly DeepDrive Dataset [[Link](https://bdd-data.berkeley.edu/)]
+* Apolloscape [[Link](http://apolloscape.auto/index.html)] 
+* MIT DriveSeg Dataset [[Link](https://agelab.mit.edu/driveseg)]
 
 ## Papers
 By Topic Areas
