@@ -30,8 +30,6 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 #### Road Autonomous Delivery Vehicles
 * Nuro [[Website](https://nuro.ai/)]
 
-* Amazon Scout [[Website](https://www.aboutamazon.com/news/transportation/meet-scout)]
-
 * Neolix [[Website](https://www.neolix.cn/productCenter.html)]
 
 * Dax [[Website](https://daxbot.com/)]
@@ -49,6 +47,8 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 * Fedex Roxo [[Website](https://www.fedex.com/en-us/innovation/roxo-delivery-robot.html)]
 
 #### Sidewalk Autonomous Delivery Vehicles
+* Amazon Scout [[Website](https://www.aboutamazon.com/news/transportation/meet-scout)]
+
 * Starship [[Website](https://www.starship.xyz/)]
 
 * Eliport [[Website](https://eliport.com/)]
