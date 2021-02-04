@@ -29,9 +29,13 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 #### Road Autonomous Delivery Vehicles
 * Nuro [[Website](https://nuro.ai/)]
+
 * Amazon Scout [[Website](https://www.aboutamazon.com/news/transportation/meet-scout)]
+
 * Neolix [[Website](https://www.neolix.cn/productCenter.html)]
+
 * Dax [[Website](https://daxbot.com/)]
+
 * Refraction AI [[Website](https://refraction.ai/)]
 * idriverplus [[Website](https://idriverplus.com/sy)]
 * udelv [[Website](https://www.udelv.com/)]
@@ -68,9 +72,8 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 * Flirtey [[Website](https://www.flirtey.com/)]
 
-* Zipline [[Website](https://flyzipline.com/)
+* Zipline [[Website](https://flyzipline.com/)]
 Zipline delivers critical and lifesaving products precisely where and when they are needed, safely and reliably, every day, across multiple countries.
-* 
 
 ## Open Data Source
 * Waymo Open Dataset [[Link](https://waymo.com/open/)]
