@@ -5,17 +5,10 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 ## Table of Contents
 * [Company](#Company)
-* [Open Data Source](#Open Data Source)
+* [Open Data Source](#OpenDataSource)
 * [Papers](#Papers)
 
 
-## Foundations
-
-### Artificial Intelligence
-
-### Robotics
-
-### Computer Vision
 
 ## Company
 
