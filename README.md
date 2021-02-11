@@ -4,17 +4,9 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 
 ## Table of Contents
-* [Foundations](#foundations)
-* [Company](#company)
-* [Papers](#papers)
-* [Open Data Source](#datasets)
-* [Research Labs](#research-labs)
-* [Open Source Software](#open-source-software)
-* [Hardware](#hardware)
-* [Toys](#toys)
-* [Companies](#companies)
-* [Media](#media)
-* [Laws](#laws)
+* [Company](#Company)
+* [Open Data Source](#Open Data Sources)
+* [Papers](#Papers)
 
 
 ## Foundations
