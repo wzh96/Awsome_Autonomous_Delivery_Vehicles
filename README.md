@@ -5,7 +5,7 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 ## Table of Contents
 * [Company](#Company)
-* [Open Data Source](#Open Data Sources)
+* [Open Data Source](#Open Data Source)
 * [Papers](#Papers)
 
 
