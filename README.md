@@ -38,7 +38,7 @@ A curated list of awesome things related to autonomous delivery vehicles, inspir
 
 * Eliport [[Website](https://eliport.com/)]
 * Teleretail [[Website](https://teleretail.com/)]
-* Kiwi [[Website](https://teleretail.com/)]
+* Kiwi [[Website](https://www.kiwibot.com/)]
 * Robby [[Website](https://robby.io/)]
 
 #### Autonomous Delivery Drone
